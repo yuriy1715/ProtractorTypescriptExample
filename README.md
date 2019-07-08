@@ -1,1 +1,1 @@
-This is an example test project uses Protractor, TypeScript, TsLint, Protractor-Reporter, Jasmine2 with default PageObject pattern;  
+This is an example test project uses Protractor, TypeScript, TsLint, Protractor-Reporter, Protractor-image comparison 
